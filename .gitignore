@@ -15,3 +15,4 @@ data_new_*
 **/params.*
 **/decode.output.*
 data_sockeye_*
+38_venv/*
