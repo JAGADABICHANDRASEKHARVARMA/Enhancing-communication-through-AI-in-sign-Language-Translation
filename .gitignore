@@ -16,3 +16,4 @@ data_new_*
 **/decode.output.*
 data_sockeye_*
 38_venv/*
+.venv/*

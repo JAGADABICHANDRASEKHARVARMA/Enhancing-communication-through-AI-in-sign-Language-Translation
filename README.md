@@ -2,10 +2,6 @@
 
 This project aims to develop machine translation systems that facilitate communication between spoken and signed languages. We utilize [SignWriting](https://www.signwriting.org/), a writing system specifically designed for signed languages, as an intermediary representation to enable seamless translation between different modalities.
 
-**Inspiration and Credit:**
-
-Among the many inspirations for this project, we wish to give special recognition to the pioneering work of Amit Moryossef, Zifan Jiang, Mathias Müller, and Sarah Ebling. Their research, outlined in their paper **Machine Translation between Spoken Languages and Signed Languages Represented in SignWriting** and the repository [signwriting-translation], established new possibilities in sign language processing. Their contributions have been invaluable to our project.
-
 **Project Components:**
 
 * **SignWriting Utilities:** We utilize the [signwriting] Python library to:
